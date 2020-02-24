@@ -17,13 +17,13 @@
 ;==========================================================
 
 [colors]
-background = #444
-background-alt = #444
-foreground = #dfdfdf
-foreground-alt = #dfdfdf
-primary = #dfdfdf
-secondary = #dfdfdf
-alert = #dfdfdf
+background = #2E3440
+background-alt = #3B4252
+foreground = #D8DEE9
+foreground-alt = #E5E9F0
+primary = #ECEFF4
+secondary = #8FBCBB
+alert = #BF616A
 
 [bar/example]
 ;monitor = ${env:MONITOR:HDMI-1}
@@ -49,7 +49,7 @@ padding-right = 2
 module-margin-left = 1
 module-margin-right = 2
 
-font-0 = fixed:pixelsize=10;1
+font-0 = Source Code Variable
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = siji:pixelsize=10;1
 
