@@ -56,9 +56,6 @@ bindsym $mod+d exec dmenu_run -fn 'Source Code Pro'
 # installed.
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
-# start emacs
-bindsym $mod+m exec emacs
-
 # change focus
 bindsym $mod+j focus left
 bindsym $mod+k focus down
